@@ -4,9 +4,7 @@ Spin up [DrewWiki](https://drew.invadelabs.com) from MediaWiki official Docker c
 
 ## Extract LocalSettings.php and drew_wiki.sqlite
 ```
-tar -Jxvf ~/Google\ Drive/Backup/Web/invadelabs.com.20180219232926.tar.xz drew_wiki.20180219232926.sqlite
-mv drew_wiki.20180219060001.sqlite drew_wiki.sqlite
-tar -Jxvf ~/Google\ Drive/Backup/Web/invadelabs.com.20180219232926.tar.xz LocalSettings.php
+tar -Jxvf ~/Google\ Drive/Backup/Web/invadelabs.com.20180219232926.tar.xz drew_wiki.sqlite LocalSettings.php
 ```
 
 ## Comment out of LocalSettings.php
