@@ -27,4 +27,4 @@ mediawiki
 ```
 
 ## Browse to
-[http://localhost:8008](http://localhost:8080)
+[http://localhost:8080](http://localhost:8080)
